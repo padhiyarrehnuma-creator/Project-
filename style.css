@@ -1,0 +1,47 @@
+body{
+    background:#f0ccff;
+    
+
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    color: black;
+    border-radius:10px ;
+    margin-left: 370px;
+    background:linear-gradient( 
+        purple,
+        white );
+
+}
+.box{
+    text-align: center;
+    color: beige;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 30px;
+}
+#t1{
+    
+     padding: 10px;
+}
+
+h3{
+    color: beige;
+    font-size: 20px;
+}
+li{
+    list-style-type:none;
+    color: beige;
+    font-size: 20px;
+    padding: 5px;
+    
+}
+input{
+    text-align: center;
+    background-color: purple;
+    color: beige;
+    border-radius:10px;
+    margin-left: 200px;
+}
